@@ -1,0 +1,7 @@
+[package]
+name = "iron-starter"
+version = "0.1.0"
+authors = ["Cloves Carneiro Jr <ccarneiroj@gmail.com>"]
+
+["dependencies"]
+iron = "*"
