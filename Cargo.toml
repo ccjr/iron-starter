@@ -5,3 +5,4 @@ authors = ["Cloves Carneiro Jr <ccarneiroj@gmail.com>"]
 
 ["dependencies"]
 iron = "*"
+daemonize = "*"
